@@ -16,6 +16,8 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+
+/*ala tarkasta tata*/
 package org.apache.cxf.performance.client;
 
 import edu.indiana.extreme.wsdl.benchmark1.Benchmark;
