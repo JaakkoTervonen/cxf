@@ -17,6 +17,8 @@
  * under the License.
  */
 
+/* pero9ihgaqooawieg*/
+
 package org.apache.cxf.annotations;
 
 import java.lang.annotation.Documented;
